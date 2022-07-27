@@ -1,27 +1,39 @@
 # PROWAYCOMPUTERS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+### Aplicação web (E-commerce) desenvolvida durante o curso da ProWay, com foco no aprendizado em Angular.
 
-## Development server
+  ![proway-home](https://user-images.githubusercontent.com/71853758/175615844-ea5bbd19-8549-4783-8df0-ea2bcf412cbc.png)
+  ![detalhes-produto](https://user-images.githubusercontent.com/71853758/175615897-aaf36174-b3c2-4fa4-9db8-a7e6166129ba.png)
+  ![Carrinho-Produtos](https://user-images.githubusercontent.com/71853758/175615980-530e4c7c-0e4f-4630-8010-1736ecd92aac.png)
+  ![Form-reativo](https://user-images.githubusercontent.com/71853758/175616041-5599edaf-4a56-4e7c-bcfa-a38d7cb9501b.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## :computer: Tecnologias Utilizadas:
 
-## Code scaffolding
+:small_blue_diamond: Angular CLI 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+:small_blue_diamond: Node.js
 
-## Build
+:small_blue_diamond: TypeScript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## :books: Bibliotecas Utilizadas:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+:small_orange_diamond: Angular Material
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Instalando na sua máquina:
 
-## Further help
+#Clone o repositório
+```bash
+git clone https://github.com/marllon-pinheiro/PROWAY-COMPUTERS.git
+```
+#Entre na pasta do projeto através do terminal
+```bash
+cd PROWAY-COMPUTERS
+```
+#Execute
+```bash
+npm start
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Após executar todos passos, acesse: http://localhost:4200/ para visualizar em seu navegador.
